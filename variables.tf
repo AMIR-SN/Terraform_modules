@@ -8,5 +8,7 @@ variable "mytag" {}
 
 variable "amid" {}
 
-variable "keyname" {}
+variable "keyname" {
+  tags
+}
 
