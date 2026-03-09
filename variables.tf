@@ -9,6 +9,6 @@ variable "mytag" {}
 variable "amid" {}
 
 variable "keyname" {
-  tags
+  
 }
 
